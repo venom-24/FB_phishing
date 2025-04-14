@@ -39,6 +39,7 @@
 * ``apt upgrade -y``
 * ``apt install git -y``
 * ``git clone https://github.com/venom-24/FB_phishing.git``
+* ``ls``
 * ``cd FB_phishing;ls``
 * ``chmod INSTALLER.sh fb_phishing.sh;ls``
 * ``bash INSTALLER.sh``
